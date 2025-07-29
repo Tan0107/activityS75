@@ -24,7 +24,9 @@
 
         <div class="d-flex justify-content-end mt-3">
             <div ref="recaptchaContainer"></div>
-      </form>
+          </div>
+
+        </form> 
     </div>
   </section>
 </template>
