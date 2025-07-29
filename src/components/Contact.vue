@@ -21,6 +21,9 @@
         </div>
 
         <button type="submit" class="btn btn-primary" >{{isLoading ? "Sending..." : "Submit"}}</button>
+
+        <div class="d-flex justify-content-end mt-3">
+            <div ref="recaptchaContainer"></div>
       </form>
     </div>
   </section>
