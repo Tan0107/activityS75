@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce API Documentation",
+    "description": "Dynamic E-Commerce Workflow Management. Features dynamic routes for order processing, real-time inventory updates, and secure user authentication. Includes automated order reporting and product management. Documented via Postman and published publicly.",
+    "image": "/images/DocAPI.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Course Booking API Documentation",
+    "description": "RESTful API for managing course enrollments with user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activation, and enrollment. Publicly documented using Postman.",
+    "image": "/images/CourseBAPI.png"
+  },
+  {
+    "id": 3,
+    "title": "Course Booking App",
+    "description": "A MERN-stack course enrollment system with user registration, authentication, and profile management. Authenticated users can manage courses and enroll in available ones seamlessly.",
+    "image": "/images/booking.jpg"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce App",
+    "description": "A MERN-based platform featuring a dynamic product catalog with filters, real-time search, cart updates, secure checkout, and an admin dashboard with analytics and user management.",
+    "image": "/images/ecommerce.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Airline Booking System Mockup",
+    "description": "Conceptual UI design showcasing flight search, seat selection, and booking confirmation with a focus on user experience and streamlined workflow.",
+    "image": "/images/airline.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Airline Booking System Prototype",
+    "description": "Interactive prototype simulating full airline booking features such as flight search, reservation, payment, and real-time ticket management.",
+    "image": "/images/airproto.png"
+  },
+  {
+    "id": 7,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project.",
+    "image": "/images/shortcourse1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project.",
+    "image": "/images/shortcourse2.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project.",
+    "image": "/images/shortcourse3.jpg"
+  },
+  {
+    "id": 10,
+    "title": "[Future Project]",
+    "description": "Stay tuned! More exciting and innovative projects will be added soon.",
+    "image": ""
+  }
+]
