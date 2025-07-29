@@ -100,7 +100,7 @@
  * 
  */
 
-const SITE_KEY = '6LdmvpIrAAAAAIg-hwItyWQzsFbJ_FMTYZQuT_-8';  // Replace with your site key
+const SITE_KEY = '6LfKxpIrAAAAAISOL7FzL6XxM89Eq6SqTb-stAZ9';  // Replace with your site key
 
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
